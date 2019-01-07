@@ -1,5 +1,5 @@
 # gen_formfields_demo
-### Rick Berger, Aphorica Inc. <rickb@aphorica.com>
+### Rick Berger, Aphorica Inc. <gbergeraph@gmail.com>
 
 General FormFields demo
 
